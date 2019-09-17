@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a young aspiring data scientist from Vancouver Island, Canada.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a Masters of Data Science student at the University of British Columbia.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[birchardkatie@gmail.com](mailto:birchardkatie@gmail.com)
